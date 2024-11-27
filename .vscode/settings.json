@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "devsecops-appsec",
+        "projectKey": "DevSecOps-AppSec_RSAEncryptionServiceJava"
+    }
+}
