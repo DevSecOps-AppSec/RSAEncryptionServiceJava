@@ -7,7 +7,7 @@ import java.util.Base64;
 
 public class RSAUtil {
     private static final String ALGORITHM = "RSA";
-    private static final String TRANSFORMATION = "RSA/ECB/PKCS1Padding";
+    private static final String TRANSFORMATION = "RSA/ECB/OAEPWithSHA-1AndMGF1Padding";
     private static KeyPair keyPair;
 
     static {
